@@ -1,2 +1,3 @@
-# astro-prepress
-Astro Sample (Cloud 66)
+# Astro Sample
+This is a sample Astro project to be deployed with Cloud 66
+
